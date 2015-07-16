@@ -1,0 +1,34 @@
+{
+  "name": "gff.js",
+  "version": "1.0.0",
+  "description": "Streamable GFF parser in JavaScript a la BIOJS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jverma/gffJS.git"
+  },
+  "keywords": [
+    "bio",
+    "biology",
+    "bioinformatics",
+    "genomics",
+    "gff",
+    "science"
+  ],
+  "author": "Janu Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jverma/gffJS/issues"
+  },
+  "homepage": "https://github.com/Jverma/gffJS#readme",
+  "devDependencies" : {
+    "mocha" : "",
+    "should": ""
+  }
+}
